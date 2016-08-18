@@ -1,7 +1,7 @@
 {
   "name": "vinyl-fs-03-compat",
   "description": "Vinyl adapter for the file system, compatibility version for 0.3 and Node.js 6+ ",
-  "version": "0.3.14",
+  "version": "0.3.15",
   "homepage": "http://github.com/gulpjs/vinyl-fs-03-compat",
   "repository": "git://github.com/gulpjs/vinyl-fs-03-compat",
   "author": "Fractal <contact@wearefractal.com> (http://wearefractal.com/)",
