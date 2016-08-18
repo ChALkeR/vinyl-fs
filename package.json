@@ -1,9 +1,9 @@
 {
-  "name": "vinyl-fs",
-  "description": "Vinyl adapter for the file system",
+  "name": "vinyl-fs-03-compat",
+  "description": "Vinyl adapter for the file system, compatibility version for 0.3 and Node.js 6+ ",
   "version": "0.3.14",
-  "homepage": "http://github.com/wearefractal/vinyl-fs",
-  "repository": "git://github.com/wearefractal/vinyl-fs.git",
+  "homepage": "http://github.com/gulpjs/vinyl-fs-03-compat",
+  "repository": "git://github.com/gulpjs/vinyl-fs-03-compat",
   "author": "Fractal <contact@wearefractal.com> (http://wearefractal.com/)",
   "main": "./index.js",
   "files": [
@@ -41,7 +41,7 @@
   "licenses": [
     {
       "type": "MIT",
-      "url": "http://github.com/wearefractal/vinyl-fs/raw/master/LICENSE"
+      "url": "http://github.com/gulpjs/vinyl-fs-03-compat/raw/master/LICENSE"
     }
   ]
 }
